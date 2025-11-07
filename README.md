@@ -54,25 +54,25 @@ Note: Adapt this to your actual database schema.
 d, name)`
 
 ---
-## Total revenue generated from pizza sales.
+## Total revenue generated from pizza sales
 
 <img width="505" height="118" alt="total_revenu_generated" src="https://github.com/user-attachments/assets/6271e16e-6017-4287-82d9-240c9c851122" />
 
 ---
 
-## Top 3 most ordered pizza types based on revenue.
+## Top 3 most ordered pizza types based on revenue
 
 <img width="526" height="206" alt="Top_three_category" src="https://github.com/user-attachments/assets/4eb406da-4a9e-488e-8c10-10aca9b20abd" />
 
 ---
 
-##  Percentage contribution of each pizza type to total revenue.
+##  Percentage contribution of each pizza type to total revenue
 
 <img width="719" height="316" alt="percentage cont" src="https://github.com/user-attachments/assets/b1dc2702-c104-4b3e-92aa-9c738f235ce2" />
 
 ---
 
-## Top 3 most ordered pizza types based on revenue for each pizza category.
+## Top 3 most ordered pizza types based on revenue for each pizza category
 
 
 <img width="600" height="204" alt="catewise_revenue" src="https://github.com/user-attachments/assets/149de534-6c11-4026-b69e-0846a49ddc89" />
